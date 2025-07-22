@@ -5,4 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/Coffee-Web/',  // 👈 your repo name with slashes
   plugins: [react()],
+  
+
+  
 })
