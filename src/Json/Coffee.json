@@ -1,0 +1,115 @@
+
+[
+  {
+    "id": 1,
+    "name": "Java Chip Frappuccino",
+    "desc": "Mocha sauce and Frappuccino® chips blended with Frappu..",
+    "kcal": "TALL(354 ml) - 392 kcal",
+    "price": 441.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100501.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/113849.png"
+  },
+    {
+    "id": 3,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/112539.jpg"
+  },
+    {
+    "id": 4,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100433.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/105468.jpg"
+  },
+   {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/115987.png"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/115986.png"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/103973.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/103973.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/112540.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/105468.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/105468.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/105468.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Chocolate Chip Frappuccino",
+    "desc": "Rich mocha-flavored sauce meets up with chocolaty chips, mil..",
+    "kcal": "TALL(354 ml) - 415 kcal",
+    "price": 462.00,
+    "image": "https://starbucksstatic.cognizantorderserv.com/Items/Small/105468.jpg"
+  }
+]

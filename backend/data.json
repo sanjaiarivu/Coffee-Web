@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "badf",
+      "username": "Sanjai",
+      "email": "sanjai003@gmail.com",
+      "phone": "1234567890",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "cb3a",
+      "username": "sam",
+      "email": "weyijo8115@cigidea.com",
+      "phone": "708175015",
+      "password": "1",
+      "confirmPassword": "1"
+    },
+    {
+      "id": "6180",
+      "username": "s",
+      "email": "weyijo8115@cigidea.com",
+      "phone": "75812842",
+      "password": "s",
+      "confirmPassword": "s"
+    },
+    {
+      "id": "1fcd",
+      "username": "Sanjai003",
+      "email": "sanjaiarivazhagan03@gmail.com",
+      "phone": "1234567890",
+      "password": "sanjai03",
+      "confirmPassword": "sanjai03"
+    }
+  ]
+}
